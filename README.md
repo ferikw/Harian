@@ -19,16 +19,25 @@ https://github.com/user-attachments/assets/367652db-8c5e-449f-a40b-14112b78683c
 
 # Minimum dan Rekomendasi Aplikasi Harian
 - Batasan minimum yang ada pada aplikasi harian adalah sebagai berikut
+
 API : Level 14
+
 Versi Android : 4.4
+
 OS : Android & OS
+
 Kebutuhan lainnya : Internet 
+
 Tetapi pada batasan minimum ini mungkin masih perlu tambahan sebuah library
 
 - Rekomendasi  yang ada pada aplikasi harian adalah sebagai berikut
+
 API : Level 33
+
 Versi Android : 13
+
 OS : Android & OS
+
 Kebutuhan lainnya : Internet
 
 # LRS (Logical Record Structure) Aplikasi Harian
