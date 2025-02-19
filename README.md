@@ -15,4 +15,4 @@ Feri Kusuma Wardhana
 
 # Video Aplikasi Harian
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2p7W_AxUOp8&t=127s/0.jpg)](https://www.youtube.com/watch?v=2p7W_AxUOp8&t=127s)
+[![IMAGE ALT TEXT HERE]](https://www.youtube.com/watch?v=2p7W_AxUOp8&t=127s)
