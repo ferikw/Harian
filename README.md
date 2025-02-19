@@ -1,3 +1,4 @@
+# Perkenalan
 🤔 A short definition of product/service.
 
 Harian adalah aplikasi yang dirancang untuk meningkatkan produktivitas pengguna melalui manajemen diri yang efektif. Aplikasi ini menyediakan berbagai fitur praktis, mulai dari pelacakan mood dan penjadwalan agenda hingga analisis pola perilaku dan asistensi AI personal.
