@@ -15,4 +15,6 @@ Feri Kusuma Wardhana
 
 # Video Aplikasi Harian
 
-[![IMAGE ALT TEXT HERE]](https://www.youtube.com/watch?v=2p7W_AxUOp8&t=127s)
+[![Video terakhir untuk memperbaiki masalah pada kode Anda di VS Code]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
